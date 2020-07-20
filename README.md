@@ -1,4 +1,4 @@
-# Infomaximum-test-task
+# Infomaximum-test-case
 Test task from "Infomaximum" interview (java junior developer vacancy).
 File "address1.xml" contains adresses.
 
